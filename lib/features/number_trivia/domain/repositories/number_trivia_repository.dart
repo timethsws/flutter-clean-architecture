@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 
-import '../../../../core/errors/faliures.dart';
+import '../../../../core/error/faliures.dart';
 import '../entities/number_trivia.dart';
 
 abstract class NumberTriviaRepository {

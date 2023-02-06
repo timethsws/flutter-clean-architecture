@@ -6,7 +6,7 @@
 import 'dart:async' as _i4;
 
 import 'package:dartz/dartz.dart' as _i2;
-import 'package:fluttercleanarchitecture/core/errors/faliures.dart' as _i5;
+import 'package:fluttercleanarchitecture/core/error/faliures.dart' as _i5;
 import 'package:fluttercleanarchitecture/features/number_trivia/domain/entities/number_trivia.dart'
     as _i6;
 import 'package:fluttercleanarchitecture/features/number_trivia/domain/repositories/number_trivia_repository.dart'
